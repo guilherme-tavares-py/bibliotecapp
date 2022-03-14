@@ -1,4 +1,6 @@
 import React, {Component} from 'react'
+import Categorias from './Categorias.js'
+
 
 class LeftSide extends React.Component {
     render() {
@@ -6,7 +8,8 @@ class LeftSide extends React.Component {
             <div class="inner-left-container">
                 <h1>Bibliotecapp</h1>
                 <hr />
-                
+                <Categorias />
+            
             </div>
         )
     }
