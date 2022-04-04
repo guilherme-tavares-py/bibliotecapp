@@ -1,6 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
+import './styles/menu-principal-esquerdo.css'
+import './styles/index.css';
+import './styles/menu-superior-direito.css'
 import App from './App.js';
 
 ReactDOM.render(<App />, document.getElementById('root'))

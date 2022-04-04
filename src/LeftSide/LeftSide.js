@@ -5,7 +5,7 @@ import Categorias from './Categorias.js'
 class LeftSide extends React.Component {
     render() {
         return(
-            <div class="inner-left-container">
+            <div className="inner-left-container">
                 <h1>Bibliotecapp</h1>
                 <hr />
                 <Categorias />

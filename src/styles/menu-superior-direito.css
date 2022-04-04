@@ -1,0 +1,20 @@
+/* Este css aplica estilo apenas para o lado direito */
+
+.inner-right-container {
+    position: absolute;
+    right: 0;
+    text-align: center;
+    width: 25%;
+    margin: 20px;
+}
+
+.MenuAccountCart ul li {
+    display: inline-block;
+    margin-left: 10px;
+}
+
+.MenuAccountCart ul li:hover{
+    cursor: pointer;
+    font-weight: bold;
+    
+}

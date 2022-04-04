@@ -1,0 +1,19 @@
+/* Este css aplica estilo para toda a página */
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+body {
+    font-family: 'Lato' ;
+}
+
+h1 {
+    margin: 20px;
+}
+
+
+
+
+
