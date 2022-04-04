@@ -12,6 +12,7 @@ class Categorias extends React.Component {
                     <li>Humor</li>
                     <li>Poesia</li>
                     <li>Jornais</li>
+                    <li>Didáticos</li>
                 </ul>
             </div>
         )
